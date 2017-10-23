@@ -1,3 +1,3 @@
 module FakeS3
-  VERSION = "0.1.6.1"
+  VERSION = "1.2.0"
 end
